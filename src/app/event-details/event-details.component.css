@@ -1,0 +1,18 @@
+
+
+.event-details-info{
+  border-right: 1px solid black;
+  font-weight: bold;
+}
+
+.event-details-1{
+  padding-top: 200px;
+ 
+}
+
+.event-details-1 ul li{
+  list-style-type: none;
+  font-size: 25px;
+  font-family: Roboto-Mono;
+}
+

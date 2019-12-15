@@ -1,0 +1,23 @@
+
+.container {
+  padding: 200px;
+}
+
+.container h1{
+  padding: 20px;
+}
+
+.container p{
+  padding: 30px;
+}
+
+.our-story-image {
+  width: 1400px;
+  height: 700px;
+  position: relative;
+  top: 55px;
+  margin: 0;
+  padding-left: 120px;
+  
+}
+

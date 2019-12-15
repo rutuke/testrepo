@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\event-details",
+    "\\src\\app\\our-story",
+    "\\src\\assets",
+    "\\src\\assets\\img"
+  ],
+  "SelectedNode": "\\src\\app\\event-details\\event-details.component.css",
+  "PreviewInSolutionExplorer": false
+}

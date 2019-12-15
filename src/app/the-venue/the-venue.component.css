@@ -1,0 +1,25 @@
+img {
+  display:inline;
+  width: 100%;
+  height: auto;
+  position: relative;
+  top: 55px;
+  background-position: center center;
+  background-size: cover;
+  margin: 0;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.event-details{
+  position: absolute;
+  height: 200px;
+  width: 800px;
+  background-color: white;
+  border-radius: 10px;
+  top: 600px;
+  left: 350px;
+
+  text-align: center;
+}
